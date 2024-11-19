@@ -1,1 +1,2 @@
 # FirstProjectManagement
+In this project the secions of (Projects(table),issues and milestones) are something new to me. I waas wondering why these things where not thought on college. if it was thouht in my college days my final year project report would have been strectured in a better way. The thing which reduced my mark is my Project report. When iam explorin these features in Github iam a surprised. I think this is the best software i'e used so far.  
